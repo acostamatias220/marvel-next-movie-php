@@ -2,7 +2,7 @@
 
 Muestra la próxima película del universo Marvel con poster, fecha de estreno y cuenta regresiva en días. Los datos se obtienen en tiempo real desde la API pública de [whenisthenextmcufilm.com](https://whenisthenextmcufilm.com).
 
-![screenshot](assets/screenshot.png)
+![screenshot](assets/demo2.png)
 
 ## Tecnologías
 
