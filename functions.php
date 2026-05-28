@@ -8,7 +8,6 @@ function render_template(string $template, array $data = []){
 function get_data($url){
     $result = file_get_contents($url);
     return json_decode($result, true);
-    return $data;
 }
 $data = get_data(API_URL);
 
